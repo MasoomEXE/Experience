@@ -6,7 +6,7 @@
   </video>
 </a>
 
-[![TryHackMe Icon](https://github.com/MasoomEXE/Experience/blob/main/THM.gif)](https://tryhackme.com/public-profile?userPublicId=2489885)
+[![TryHackMe Icon](https://github.com/MasoomEXE/Experience/blob/main/THM.gif)](https://tryhackme.com/r/p/M4s00m)
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2489885" style='border:none;'></iframe>
 
