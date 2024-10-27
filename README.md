@@ -1,4 +1,12 @@
 # Experience
+
+<a>
+  <video src="https://github.com/M4SOOM/MyExperience/blob/main/Icons/discord.mp4" autoplay loop muted playsinline style="width: 50px; height: 50px;">
+    Your browser does not support the video tag.
+  </video>
+</a>
+
+
 My Experiences
 <p align="center">
   <a href="https://github.com/tamzi/ReadMe-MasterTemplates">
