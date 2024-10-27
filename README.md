@@ -1,10 +1,12 @@
 # Experience
 
 <a>
-  <video src="https://github.com/M4SOOM/MyExperience/blob/main/Icons/discord.mp4" autoplay loop muted playsinline style="width: 50px; height: 50px;">
+  <video src="https://github.com/MasoomEXE/Experience/blob/main/THM.gif">
     Your browser does not support the video tag.
   </video>
 </a>
+
+[![TryHackMe Icon](https://github.com/M4SOOM/MyExperience/blob/main/Icons/your-icon.gif)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME)
 
 
 My Experiences
